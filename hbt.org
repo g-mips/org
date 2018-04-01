@@ -1,0 +1,111 @@
+* TODO Read Book of Mormon                                     :SPIRITUALITY:
+  SCHEDULED: <2018-04-01 Sun ++1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :LAST_REPEAT: [2018-03-31 Sat 16:09]
+  :END:
+* TODO Morning prayer                                          :SPIRITUALITY:
+  SCHEDULED: <2018-04-01 Sun ++1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Evening prayer                                          :SPIRITUALITY:
+  SCHEDULED: <2018-04-01 Sun ++1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Write in journal                     :SPIRITUALITY:DEVELOPMENT:FAMILY:
+  SCHEDULED: <2018-03-31 Sat ++1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Read from a good book                          :DEVELOPMENT:EDUCATION:
+  SCHEDULED: <2018-04-01 Sun ++1d>
+  :PROPERTIES:
+  :STYLE:    habit
+  :END:
+* TODO FHE                                              :SPIRITUALITY:FAMILY:
+  SCHEDULED: <2018-04-02 Mon ++1w>
+  :PROPERTIES:
+  :STYLE:    habit
+  :END:
+* Sleep Schedule
+** TODO Wake up at 5:30                                            :PHYSICAL:
+* Exercise Schedule
+** TODO Run                                                        :PHYSICAL:
+   SCHEDULED: <2018-04-02 Mon +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Run                                                        :PHYSICAL:
+   SCHEDULED: <2018-04-04 Wed +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Run                                                        :PHYSICAL:
+   SCHEDULED: <2018-04-06 Fri +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Exercise                                                   :PHYSICAL:
+   SCHEDULED: <2018-04-03 Tue +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Exercise                                                   :PHYSICAL:
+   SCHEDULED: <2018-04-05 Thu +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Exercise                                                   :PHYSICAL:
+   SCHEDULED: <2018-04-07 Sat +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+* Work Schedule
+** TODO Go to work at 8                                              :CAREER:
+   SCHEDULED: <2018-04-02 Mon +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Go to work at 8                                              :CAREER:
+   SCHEDULED: <2018-04-03 Tue +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Go to work at 8                                              :CAREER:
+   SCHEDULED: <2018-04-04 Wed +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Go to work at 8                                              :CAREER:
+   SCHEDULED: <2018-04-05 Thu +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+** TODO Go to work at 8                                              :CAREER:
+   SCHEDULED: <2018-04-06 Fri +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :END:
+* Device/Online Cleanup
+** Laptop Cleanup
+*** TODO Uninstall unneeded/unused software
+*** TODO Run Disk Cleanup
+*** TODO Cleanup home directories
+*** TODO Cleanup any other directory
+*** TODO Organize home directory (in Ubuntu and Windows)
+** My Cloud Cleanup
+*** TODO Organize directories/files
+** Phone Cleanup
+*** TODO Go through apps and delete ones that I don't need/use
+*** TODO Revoke permissions to apps that don't need certain permissions
+*** TODO Cleanup notifications as needed
+*** TODO Review home screens and modify as needed (including wallpaper)
+** Accounts Review
+*** TODO Go through LastPass and update passwords if there are any old accounts
+*** TODO Add more accounts to LastPass
+*** TODO Remove any old accounts from LastPass and delete them
+*** TODO Find "lost" accounts and add them to LastPass or close them
+
+

@@ -1,0 +1,10 @@
+#+STARTUP: hidestars
+
+* 2018
+** 2018-04 April
+*** 2018-04-01 Sunday [0/5]
+    - [ ] Week Review
+    - [ ] Week Plan
+    - [ ] Watch Sunday morning session conference
+    - [ ] Watch Sunday afternoon session conference
+    - [ ] Monthly Financial Review

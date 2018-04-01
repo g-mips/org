@@ -1,0 +1,55 @@
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE(d) CANCELLED(c)
+#+TAGS: 
+
+* Gaming Setup
+** Arcade Setup
+*** TODO Get all desired arcade games that would work with a fighting stick on LaunchBox
+    DEADLINE: <2018-03-27 Tue> SCHEDULED: <2018-03-24 Sat>
+*** TODO Get all the non-input configuration working of MAME through LaunchBox
+    DEADLINE: <2018-03-28 Wed> SCHEDULED: <2018-03-26 Mon>
+*** TODO Buy a X-Gaming Fighting Stick (2 player)
+*** TODO Setup all the input configuration on MAME
+*** TODO Make sure all arcade games are working correctly
+*** TODO Buy Big Box
+*** TODO Configure Big Box to look exactly how I want it to
+*** TODO Make sure I can navigate Big Box with just the fighting stick
+*** TODO Buy EmuMovies
+*** TODO Finalize any configuration of EmuMovies, BigBox, and/or MAME
+*** TODO Plan out Desktop to run Big Box
+**** PLANS OF DESKTOP GO HERE
+*** TODO Buy parts for Desktop and build
+*** TODO Setup configuration of Big Box and automatically booting into it on Desktop
+*** TODO Plan out Arcade Standup Machine
+**** PLANS OF ARCADE MACHINE GO HERE
+*** TODO Buy all the parts for the Machine and build
+*** TODO Finalize any configuration/fixes between Desktop and Arcade Machine
+** Console Setup
+** Gaming PC
+* Programming Projects
+** ImgFilter
+*** TODO Research and implement an API for bitmap image files
+    DEADLINE: <2018-03-31 Sat> SCHEDULED: <2018-03-25 Sun>
+** OS Dev
+** Security Research
+*** TODO Go through TutorialsPoint tutorial on Cryptography
+** YouTube Subscription Management
+** Exploit Exercises
+** Gaming Dev
+*** 2D Computer Game
+*** Handmade Hero
+*** 3D Computer Game
+*** N64 Programming
+** Org Mode Learning
+*** TODO Go through all of the manual
+    SCHEDULED: <2018-03-24 Sat> DEADLINE: <2018-04-14 Sat>
+*** TODO Setup agenda files
+    DEADLINE: <2018-03-27 Tue> SCHEDULED: <2018-03-25 Sun>
+*** TODO Understand how agenda views work
+    DEADLINE: <2018-03-30 Fri> SCHEDULED: <2018-03-25 Sun>
+* Server Setup
+* Government
+** Constitution Research
+* Church
+** History Research
+* Misc
+** TODO Learn about different license types
