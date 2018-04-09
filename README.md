@@ -1,7 +1,5 @@
 # Files and Their Purposes
 
-------------
-
 ## hbt.org
 
 This file is used for the daily, weekly, and monthly habits.
