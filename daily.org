@@ -1,10 +1,77 @@
 #+STARTUP: hidestars
 
+* Master TODO List
+** DONE Clean kitchen
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-16 Mon>
+** DONE Clean main closet
+   CLOSED: [2018-04-16 Mon 21:51] DEADLINE: <2018-04-16 Mon>
+** TODO Clean public bathroom
+   DEADLINE: <2018-04-17 Tue>
+** DONE Clean family room
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-17 Tue>
+** TODO Cut up all cardboard
+   DEADLINE: <2018-04-18 Wed> SCHEDULED: <2018-04-17 Tue>
+** DONE Jiffy Lube
+   CLOSED: [2018-04-18 Wed 22:55] DEADLINE: <2018-04-18 Wed>
+** DONE Clean master bedroom
+   CLOSED: [2018-04-22 Sun 17:56] DEADLINE: <2018-04-18 Wed>
+** DONE Clean master bathroom
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-18 Wed>
+** TODO Clean guest bedroom
+   DEADLINE: <2018-04-19 Thu>
+** TODO Clean guest bathroom
+   DEADLINE: <2018-04-19 Thu>
+** DONE Clean Jack's room
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-20 Fri>
+** DONE Clean hallway/stairs
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-20 Fri>
+** DONE Clean fridge
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-21 Sat>
+** DONE Clean pantry
+   CLOSED: [2018-05-01 Tue 22:24] DEADLINE: <2018-04-21 Sat>
+** TODO Consolidate receipts (update mint)
+** TODO Emission (DMV)
+** TODO Put car in our name/register car/get Utah license (DMV)
+** TODO Get Utah driver's license for both Kelsi and I (DMV)
+** TODO Dentist (Kelsi and I)
+** TODO Eye Doctor
 * 2018
 ** 2018-04 April
-*** 2018-04-01 Sunday [0/5]
-    - [ ] Week Review
+*** 2018-04-08 Sunday [4/10]
     - [ ] Week Plan
-    - [ ] Watch Sunday morning session conference
-    - [ ] Watch Sunday afternoon session conference
-    - [ ] Monthly Financial Review
+    - [ ] Financial Review (Feb)
+    - [X] All hours of Church
+    - [X] Read Book of Mormon
+    - [X] Morning prayer
+    - [ ] Evening prayer
+    - [ ] Write in journal
+    - [X] Read from a good book
+    - [ ] Wake up at 7:00
+    - [ ] Go to bed at 22:30
+*** 2018-04-16 Monday [6/6]
+    - [X] Clean kitchen
+    - [X] Clean main closet
+    - [X] Soft clean of family room
+    - [X] Read scriptures
+    - [X] Evening prayer
+    - [X] 7 habits
+*** 2018-04-17 Tuesday [6/10]
+    - [X] Read scriptures
+    - [X] Morning Prayer
+    - [X] 7 habits
+    - [X] Clean kitchen
+    - [ ] Clean family room
+    - [ ] Clean public bathroom
+    - [ ] Start on cardboard
+    - [X] Evening prayer
+    - [ ] Run
+    - [X] Write in journal
+*** 2018-04-18 Wednesday [3/8]
+    - [X] Morning Prayer
+    - [X] Scriptures
+    - [ ] 7 habits
+    - [ ] Clean kitchen
+    - [ ] Clean family room
+    - [ ] Clean master bedroom
+    - [X] Jiffy Lube
+    - [ ] Evening Prayer
