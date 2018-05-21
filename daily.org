@@ -75,3 +75,20 @@
     - [ ] Clean master bedroom
     - [X] Jiffy Lube
     - [ ] Evening Prayer
+** 2018-05 May
+*** 2018-05-19 Monday [0/15]
+    - [ ] Deposit money
+    - [ ] Brush teeth in morning
+    - [ ] Brush teeth in evening
+    - [ ] Say morning prayers
+    - [ ] Say evening prayers
+    - [ ] Read scriptures
+    - [ ] FHE
+    - [ ] Read family scriptures
+    - [ ] Say family morning prayers
+    - [ ] Say family evening prayers
+    - [ ] Buy birthday presents
+    - [ ] Study for driver's license test
+    - [ ] Setup appointment for driver's license test
+    - [ ] Find car title
+    - [ ] Buy 2% and whole milk
